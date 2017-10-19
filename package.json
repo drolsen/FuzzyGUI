@@ -1,0 +1,22 @@
+{
+  "name": "fuzzygui",
+  "version": "0.0.1",
+  "description": "A graphical user interface to Fuzzy Chainsaw framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "fuzzygui-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drolsen/FuzzyGUI.git"
+  },
+  "keywords": [
+    "FuzzyGUI"
+  ],
+  "author": "drolsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drolsen/FuzzyGUI/issues"
+  },
+  "homepage": "https://github.com/drolsen/FuzzyGUI#readme"
+}
